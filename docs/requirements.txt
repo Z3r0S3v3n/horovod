@@ -4,3 +4,4 @@ alabaster
 jinja2<3.1
 nbsphinx
 pyyaml
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
